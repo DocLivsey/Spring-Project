@@ -7,6 +7,90 @@
     <list default="true" id="684a4a6b-87b0-489c-9606-ac81c4551385" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/Spring-Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Spring-Project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/src/main/kotlin/com/example/deskrop_frontend/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesktopApp/DeskTopFrontend/FlutterDev/windows/runner/win32_window.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,24 +125,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/My Files/All Scripts/IntellijProjects/Spring-Project&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "D:/My Files/All Scripts/Линейное и Дискретное программирование",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,6 +156,12 @@
       <workItem from="1701473554610" duration="1523000" />
       <workItem from="1701475701746" duration="261000" />
       <workItem from="1701476521691" duration="199000" />
+      <workItem from="1701504004814" duration="177000" />
+      <workItem from="1701504210144" duration="122000" />
+      <workItem from="1701504408395" duration="306000" />
+      <workItem from="1701505349186" duration="74000" />
+      <workItem from="1701506806680" duration="651000" />
+      <workItem from="1701529120960" duration="374000" />
     </task>
     <servers />
   </component>

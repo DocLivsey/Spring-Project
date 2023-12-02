@@ -6,6 +6,9 @@
       <excludeFolder url="file://$MODULE_DIR$/DesktopApp/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/DesktopApp/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/DesktopApp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/DesktopApp/DesktopFrontend/FlutterDev/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/DesktopApp/DesktopFrontend/FlutterDev/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/DesktopApp/DesktopFrontend/FlutterDev/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
